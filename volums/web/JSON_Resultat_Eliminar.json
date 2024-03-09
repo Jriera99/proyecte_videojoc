@@ -21,237 +21,244 @@
         "ID": 3
     },
     "3": {
+        "Nom": "Red Dead Redemption 2",
+        "Desenvolupador": "Rockstar Games",
+        "Plataforma": "PlayStation 4, Xbox One, PC",
+        "Llan\u00e7ament": "2018-10-26",
+        "ID": 3
+    },
+    "4": {
         "Nom": "Super Mario Odyssey",
         "Desenvolupador": "Nintendo",
         "Plataforma": "Nintendo Switch",
         "Llan\u00e7ament": "2017-10-27",
         "ID": 4
     },
-    "5": {
+    "6": {
         "Nom": "God of War",
         "Desenvolupador": "Santa Monica Studio",
         "Plataforma": "PlayStation 4, PlayStation 5",
         "Llan\u00e7ament": "2018-04-20",
         "ID": 6
     },
-    "6": {
+    "7": {
         "Nom": "Horizon Zero Dawn",
         "Desenvolupador": "Guerrilla Games",
         "Plataforma": "PlayStation 4, PC",
         "Llan\u00e7ament": "2017-02-28",
         "ID": 7
     },
-    "7": {
+    "8": {
         "Nom": "The Elder Scrolls V: Skyrim",
         "Desenvolupador": "Bethesda Game Studios",
         "Plataforma": "PC, PlayStation 3, Xbox 360",
         "Llan\u00e7ament": "2011-11-11",
         "ID": 8
     },
-    "9": {
+    "10": {
         "Nom": "Minecraft",
         "Desenvolupador": "Mojang",
         "Plataforma": "PC, PlayStation, Xbox, Switch, etc.",
         "Llan\u00e7ament": "2011-11-18",
         "ID": 10
     },
-    "13": {
+    "14": {
         "Nom": "Pok\u00e9mon FireRed \/ LeafGreen",
         "Desenvolupador": "Game Freak",
         "Plataforma": "Game Boy Advance",
         "Llan\u00e7ament": "2004-01-29",
         "ID": 14
     },
-    "16": {
+    "17": {
         "Nom": "Call of Duty: Modern Warfare (2019)",
         "Desenvolupador": "Infinity Ward",
         "Plataforma": "PC, PlayStation 4, Xbox One",
         "Llan\u00e7ament": "2019-10-25",
         "ID": 17
     },
-    "19": {
+    "20": {
         "Nom": "Death Stranding",
         "Desenvolupador": "Kojima Productions",
         "Plataforma": "PlayStation 4, PC",
         "Llan\u00e7ament": "2019-11-08",
         "ID": 20
     },
-    "20": {
+    "21": {
         "Nom": "Stardew Valley",
         "Desenvolupador": "ConcernedApe",
         "Plataforma": "PC, PlayStation, Xbox, Switch, iOS, Android",
         "Llan\u00e7ament": "2016-02-26",
         "ID": 21
     },
-    "22": {
+    "23": {
         "Nom": "Resident Evil Village",
         "Desenvolupador": "Capcom",
         "Plataforma": "PC, PlayStation 4, PlayStation 5, Xbox One, Xbox Series X\/S",
         "Llan\u00e7ament": "2021-05-07",
         "ID": 23
     },
-    "23": {
+    "24": {
         "Nom": "Sekiro: Shadows Die Twice",
         "Desenvolupador": "FromSoftware",
         "Plataforma": "PC, PlayStation 4, Xbox One",
         "Llan\u00e7ament": "2019-03-22",
         "ID": 24
     },
-    "25": {
+    "26": {
         "Nom": "Ratchet & Clank: Rift Apart",
         "Desenvolupador": "Insomniac Games",
         "Plataforma": "PlayStation 5",
         "Llan\u00e7ament": "2021-06-11",
         "ID": 26
     },
-    "26": {
+    "27": {
         "Nom": "It Takes Two",
         "Desenvolupador": "Hazelight Studios",
         "Plataforma": "PC, PlayStation 4, PlayStation 5, Xbox One, Xbox Series X\/S",
         "Llan\u00e7ament": "2021-03-26",
         "ID": 27
     },
-    "27": {
+    "28": {
         "Nom": "Pok\u00e9mon Diamond\/Pearl",
         "Desenvolupador": "Game Freak",
         "Plataforma": "Nintendo DS",
         "Llan\u00e7ament": "2006-09-28",
         "ID": 28
     },
-    "28": {
+    "29": {
         "Nom": "Hitman 3",
         "Desenvolupador": "IO Interactive",
         "Plataforma": "PC, PlayStation 4, PlayStation 5, Xbox One, Xbox Series X\/S",
         "Llan\u00e7ament": "2021-01-20",
         "ID": 29
     },
-    "30": {
+    "31": {
         "Nom": "Metroid Dread",
         "Desenvolupador": "Nintendo",
         "Plataforma": "Nintendo Switch",
         "Llan\u00e7ament": "2021-10-08",
         "ID": 31
     },
-    "31": {
+    "32": {
         "Nom": "Monster Hunter Rise",
         "Desenvolupador": "Capcom",
         "Plataforma": "Nintendo Switch, PC",
         "Llan\u00e7ament": "2021-03-26",
         "ID": 32
     },
-    "32": {
+    "33": {
         "Nom": "Little Nightmares II",
         "Desenvolupador": "Tarsier Studios",
         "Plataforma": "PC, PlayStation, Xbox, Switch",
         "Llan\u00e7ament": "2021-02-11",
         "ID": 33
     },
-    "33": {
+    "34": {
         "Nom": "Outriders",
         "Desenvolupador": "People Can Fly",
         "Plataforma": "PC, PlayStation 4, PlayStation 5, Xbox One, Xbox Series X\/S",
         "Llan\u00e7ament": "2021-04-01",
         "ID": 34
     },
-    "34": {
+    "35": {
         "Nom": "Kena: Bridge of Spirits",
         "Desenvolupador": "Ember Lab",
         "Plataforma": "PC, PlayStation 4, PlayStation 5",
         "Llan\u00e7ament": "2021-09-21",
         "ID": 35
     },
-    "35": {
+    "36": {
         "Nom": "Mass Effect Legendary Edition",
         "Desenvolupador": "BioWare",
         "Plataforma": "PC, PlayStation 4, Xbox One",
         "Llan\u00e7ament": "2021-05-14",
         "ID": 36
     },
-    "36": {
+    "37": {
         "Nom": "Chicory: A Colorful Tale",
         "Desenvolupador": "Greg Lobanov",
         "Plataforma": "PC, PlayStation, Switch",
         "Llan\u00e7ament": "2021-06-10",
         "ID": 37
     },
-    "37": {
+    "38": {
         "Nom": "Scarlet Nexus",
         "Desenvolupador": "Bandai Namco Entertainment",
         "Plataforma": "PC, PlayStation 4, PlayStation 5, Xbox One, Xbox Series X\/S",
         "Llan\u00e7ament": "2021-06-25",
         "ID": 38
     },
-    "38": {
+    "39": {
         "Nom": "New Pok\u00e9mon Snap",
         "Desenvolupador": "Bandai Namco Studios",
         "Plataforma": "Nintendo Switch",
         "Llan\u00e7ament": "2021-04-30",
         "ID": 39
     },
-    "39": {
+    "40": {
         "Nom": "Back 4 Blood",
         "Desenvolupador": "Turtle Rock Studios",
         "Plataforma": "PC, PlayStation 4, PlayStation 5, Xbox One, Xbox Series X\/S",
         "Llan\u00e7ament": "2021-10-12",
         "ID": 40
     },
-    "40": {
+    "41": {
         "Nom": "NieR Replicant ver.1.22474487139...",
         "Desenvolupador": "Toylogic",
         "Plataforma": "PC, PlayStation 4, Xbox One",
         "Llan\u00e7ament": "2021-04-23",
         "ID": 41
     },
-    "41": {
+    "42": {
         "Nom": "Pok\u00e9mon Black\/White",
         "Desenvolupador": "Game Freak",
         "Plataforma": "Nintendo DS",
         "Llan\u00e7ament": "2010-03-04",
         "ID": 42
     },
-    "42": {
+    "43": {
         "Nom": "Riders Republic",
         "Desenvolupador": "Ubisoft Annecy",
         "Plataforma": "PC, PlayStation 4, PlayStation 5, Xbox One, Xbox Series X\/S",
         "Llan\u00e7ament": "2021-10-28",
         "ID": 43
     },
-    "43": {
+    "44": {
         "Nom": "The Medium",
         "Desenvolupador": "Bloober Team",
         "Plataforma": "PC, Xbox Series X\/S",
         "Llan\u00e7ament": "2021-01-28",
         "ID": 44
     },
-    "45": {
+    "46": {
         "Nom": "Bravely Default II",
         "Desenvolupador": "Silicon Studio \/ Claytechworks",
         "Plataforma": "Nintendo Switch",
         "Llan\u00e7ament": "2021-02-26",
         "ID": 46
     },
-    "46": {
+    "47": {
         "Nom": "Age of Empires IV",
         "Desenvolupador": "Relic Entertainment",
         "Plataforma": "PC",
         "Llan\u00e7ament": "2021-10-28",
         "ID": 47
     },
-    "47": {
+    "48": {
         "Nom": "Halo Infinite",
         "Desenvolupador": "343 Industries",
         "Plataforma": "PC, Xbox Series X\/S",
         "Llan\u00e7ament": "2021-12-08",
         "ID": 48
     },
-    "48": {
+    "49": {
         "Nom": "Far Cry 6",
         "Desenvolupador": "Ubisoft",
         "Plataforma": "PC, PlayStation 4, PlayStation 5, Xbox One, Xbox Series X\/S",
         "Llan\u00e7ament": "2021-10-07",
         "ID": 49
     },
-    "49": {
+    "50": {
         "Nom": "Deathloop",
         "Desenvolupador": "Arkane Studios",
         "Plataforma": "PC, PlayStation 5",

@@ -24,6 +24,14 @@
         "FechaExpiracion": "2023-10-26"
     },
     {
+        "Nom": "Red Dead Redemption 2",
+        "Desenvolupador": "Rockstar Games",
+        "Plataforma": "PlayStation 4, Xbox One, PC",
+        "Llan\u00e7ament": "2018-10-26",
+        "ID": 3,
+        "FechaExpiracion": "2023-10-26"
+    },
+    {
         "Nom": "Super Mario Odyssey",
         "Desenvolupador": "Nintendo",
         "Plataforma": "Nintendo Switch",
